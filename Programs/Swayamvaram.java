@@ -27,5 +27,6 @@ public class Swayamvaram {
                 break;
         }
         System.out.print(ans);
+        scan.close();
     }
 }

@@ -30,5 +30,6 @@ public class ATMDenomination {
             }
         }
         System.out.print(max);
+        scan.close();
     }
 }
